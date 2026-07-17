@@ -1,220 +1,105 @@
+<h1 align="center">Hi, I'm Adarsh Singh 👋</h1>
+<h3 align="center">AI/ML Engineer | Building Agentic RAG Systems & Full-Stack AI Products</h3>
 
-# Hi, I'm Adarsh Singh 👋
-
-<div align="center">
-
-### AI Engineer • Agentic AI • Retrieval-Augmented Generation • Vision AI
-
-Building production-ready AI systems using **LangGraph**, **FastAPI**, **React**, **Vision Language Models**, and modern LLM infrastructure.
-
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer;Agentic+AI+Developer;Building+Production+Ready+LLM+Systems;RAG+%7C+Vision+AI+%7C+LangGraph+%7C+FastAPI" />
-</p>
-
-<p>
-<a href="mailto:adarshx68@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/Adarsh041-arch"><img src="https://img.shields.io/github/followers/Adarsh041-arch?label=Followers&style=for-the-badge"/></a>
-<img src="https://komarev.com/ghpvc/?username=Adarsh041-arch&style=for-the-badge"/>
-</p>
-
-</div>
-
----
-
-# 🚀 About Me
-
-I'm an AI Engineering student passionate about designing intelligent systems that move beyond simple chatbots. My work focuses on building **production-ready AI applications** combining LLMs, Retrieval-Augmented Generation (RAG), Vision Language Models, and Agentic workflows.
-
-### Current Focus
-
-- 🤖 Agentic AI
-- 🧠 Large Language Models
-- 📚 Retrieval-Augmented Generation
-- 👁️ Vision Language Models
-- 🔄 LangGraph Workflows
-- 🛠️ AI Infrastructure
-
----
-
-# 🌟 Featured Projects
-
-## 🛡️ TrustAudit
-
-Enterprise AI-powered compliance platform for auditing invoices, purchase orders, contracts, certificates and business documents.
-
-**Highlights**
-
-- Google Gemini Vision
-- LangGraph Agent Workflow
-- Configurable Compliance Engine
-- DOCX Audit Reports
-- FastAPI Backend
-- React Dashboard
-
-**Stack**
-
-`Python` `FastAPI` `LangGraph` `Gemini` `React` `TypeScript`
-
----
-
-## 🧠 TCET Intelligence
-
-Production-ready Agentic RAG platform with adaptive retrieval, local LLMs, filesystem tools, SQL execution and document generation.
-
-**Highlights**
-
-- Adaptive RAG
-- MCP Filesystem Agent
-- SQL Agent
-- Local Ollama Models
-- ChromaDB
-- Document Generation
-
-**Stack**
-
-`FastAPI` `LangGraph` `React` `Ollama` `ChromaDB`
-
----
-
-## 🎥 YTChatBot
-
-YouTube RAG chatbot supporting videos and playlists with semantic search and streaming responses.
-
-**Highlights**
-
-- Pinecone Vector Search
-- JWT Authentication
-- MongoDB
-- Playlist Processing
-- LangChain
-- Streaming Chat
-
-**Stack**
-
-`FastAPI` `LangChain` `Pinecone` `MongoDB` `React`
-
----
-
-# 💻 Tech Stack
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,sql"/>
-</p>
-
-## AI & ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-</p>
-
-**Frameworks**
-
-- LangChain
-- LangGraph
-- Hugging Face
-- Ollama
-- Google Gemini
-- FastAPI
-- Spring Boot
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind"/>
-</p>
-
-## Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite"/>
-</p>
-
-Also experienced with **Pinecone**, **ChromaDB**, and **Vector Search**.
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:adarshx68@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
-<!-- ========================= GitHub Analytics ========================= -->
 
-<h2 align="center">📈 GitHub Analytics</h2>
+### 🧠 About Me
 
-<div align="center">
-
-<img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh041-arch&theme=tokyo-night&hide_border=true&area=true"
-/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Adarsh041-arch&style=for-the-badge&color=blue" />
-
-<img src="https://img.shields.io/github/followers/Adarsh041-arch?label=Followers&style=for-the-badge" />
-
-<img src="https://img.shields.io/github/stars/Adarsh041-arch?affiliations=OWNER&style=for-the-badge" />
-
-</div>
-
-<!-- ================================================================ -->
-
-# 🎯 Interests
-
-- Agentic AI
-- Enterprise AI
-- AI Infrastructure
-- Multi-Agent Systems
-- Vision AI
-- Retrieval-Augmented Generation
-- LLM Evaluation
-- AI Security
+- 🎓 B.Tech in **AI & Machine Learning** @ Thakur College of Engineering and Technology (Mumbai) — CGPA 9.61/10, graduating 2027
+- 🤖 I build **agentic AI systems** — RAG pipelines, LangGraph workflows, MCP-based tool use, and full-stack apps around them
+- 💼 AI Developer Intern @ **Codec Technologies Pvt. Ltd.**, improving classification model precision by 12%+ using XGBoost
+- 🏛️ **Administrative Head**, TCET NSS Unit — leading 200+ student volunteers
+- 🎨 **Creative Head**, TCET Super AI Club — running AI workshops & hackathons for 300+ members
+- 🌱 Currently exploring conformal prediction, causal inference, and adversarial robustness for trustworthy AI
+- 🗾 Learning Japanese and applying for research/study opportunities in Japan
 
 ---
 
-# 🌱 Currently Learning
+### 🚀 Featured Projects
 
-- NVIDIA AI Stack
-- Kubernetes
-- Distributed AI Systems
-- LlamaIndex
-- AI Evaluation Pipelines
+#### 🧩 [TCET Intelligence — Advanced RAG & Agentic Chatbot](https://github.com/YOUR-USERNAME/tcet-intelligence)
+Production-style enterprise chatbot platform with **FastAPI + React + Ollama**, featuring adaptive retrieval, an MCP filesystem agent, SQL querying in natural language, and sandboxed document generation.
+- Fully local RAG pipeline (parse → chunk → embed → retrieve) over PDF/DOCX/TXT using **ChromaDB** — **~45ms** warm vector search, **~838ms** end-to-end response latency
+- Keyword fast-path document classifier (**<1ms**) with LLM fallback (**~614ms**) for ambiguous queries, plus adaptive Tavily web search routing
+- MCP-based filesystem agent for sandboxed local file operations, tool-gated for secure agentic workflows
+- Responsive React/Vite interface with inline citations, image galleries, and persistent chat history
+
+`FastAPI` `React` `LangGraph` `Ollama` `ChromaDB` `MCP` `Tavily`
+
+#### 🎥 [YTChatBot — YouTube RAG Chatbot](https://github.com/YOUR-USERNAME/ytchatbot)
+End-to-end RAG chatbot that answers questions over YouTube videos & playlists, with secure auth and real-time streaming.
+- Layered transcript extraction (`youtube-transcript-api` → `yt-dlp` → Invidious) for resilient ingestion, even under IP-blocked cloud environments
+- Embeddings via **SentenceTransformers (all-MiniLM-L6-v2)** indexed into **Pinecone** with per-video namespace isolation — **~350ms** end-to-end retrieval
+- Stateful multi-turn conversational retrieval with **LangChain** + Server-Sent Events for real-time streaming
+- JWT + bcrypt auth, async **MongoDB (Motor)** persistence, deployed on Vercel (frontend) + Render (backend)
+
+`FastAPI` `LangChain` `Pinecone` `MongoDB` `OpenRouter` `React`
+
+#### 🛡️ TrustAudit — AI Compliance & Document Audit System
+Agentic system for auditing invoices, purchase orders, contracts, and certificates using Vision Language Models.
+- Vision-based document analysis via **Google Gemini**, orchestrated through a **LangGraph** workflow engine
+- Rule-based, customizable compliance checklist (math accuracy, signatures, tax IDs, date validity) with configurable severity levels
+- FastAPI backend generating downloadable **.docx** compliance reports, paired with a React/Vite dashboard for visualizing audit results
+
+`Python` `LangGraph` `Gemini VLM` `FastAPI` `React`
 
 ---
 
-# 🤝 Open Source
+### 🛠️ Tech Stack
 
-I'm always interested in collaborating on projects involving:
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-- Agentic AI
-- RAG
-- AI Automation
-- FastAPI
-- LangGraph
-- Open Source AI
+**AI / ML**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Backend & Agentic Infra**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-black?style=flat-square)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Databases & Vector Stores**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6600?style=flat-square)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square)
 
 ---
 
-# 📫 Connect
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=default" height="165"/>
+</p>
+
+---
+
+### 📫 Connect With Me
 
 - 📧 **Email:** adarshx68@gmail.com
-- 💼 **LinkedIn:** Add your LinkedIn URL
-- 🌐 **Portfolio:** Coming Soon
+- 💼 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN](https://linkedin.com)
+- 📍 **Location:** Mumbai, India
 
----
-
-<div align="center">
-
-### Thanks for visiting! ⭐
-
-*"Building AI systems that solve real-world problems."*
-
-</div>
+<p align="center"><i>Open to AI/ML Engineer and AI Developer roles — always happy to talk about RAG systems, agentic architectures, and LLM tooling.</i></p>
