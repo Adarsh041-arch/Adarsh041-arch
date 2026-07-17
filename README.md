@@ -1,9 +1,9 @@
 
-# Hi, I'm Adarsh Singh ðŸ‘‹
+# Hi, I'm Adarsh Singh 👋
 
 <div align="center">
 
-### AI Engineer â€¢ Agentic AI â€¢ Retrieval-Augmented Generation â€¢ Vision AI
+### AI Engineer • Agentic AI • Retrieval-Augmented Generation • Vision AI
 
 Building production-ready AI systems using **LangGraph**, **FastAPI**, **React**, **Vision Language Models**, and modern LLM infrastructure.
 
@@ -21,24 +21,24 @@ Building production-ready AI systems using **LangGraph**, **FastAPI**, **React**
 
 ---
 
-# ðŸš€ About Me
+# 🚀 About Me
 
 I'm an AI Engineering student passionate about designing intelligent systems that move beyond simple chatbots. My work focuses on building **production-ready AI applications** combining LLMs, Retrieval-Augmented Generation (RAG), Vision Language Models, and Agentic workflows.
 
 ### Current Focus
 
-- ðŸ¤– Agentic AI
-- ðŸ§  Large Language Models
-- ðŸ“š Retrieval-Augmented Generation
-- ðŸ‘ï¸ Vision Language Models
-- ðŸ”„ LangGraph Workflows
-- ðŸ› ï¸ AI Infrastructure
+- 🤖 Agentic AI
+- 🧠 Large Language Models
+- 📚 Retrieval-Augmented Generation
+- 👁️ Vision Language Models
+- 🔄 LangGraph Workflows
+- 🛠️ AI Infrastructure
 
 ---
 
-# ðŸŒŸ Featured Projects
+# 🌟 Featured Projects
 
-## ðŸ›¡ï¸ TrustAudit
+## 🛡️ TrustAudit
 
 Enterprise AI-powered compliance platform for auditing invoices, purchase orders, contracts, certificates and business documents.
 
@@ -57,7 +57,7 @@ Enterprise AI-powered compliance platform for auditing invoices, purchase orders
 
 ---
 
-## ðŸ§  TCET Intelligence
+## 🧠 TCET Intelligence
 
 Production-ready Agentic RAG platform with adaptive retrieval, local LLMs, filesystem tools, SQL execution and document generation.
 
@@ -76,7 +76,7 @@ Production-ready Agentic RAG platform with adaptive retrieval, local LLMs, files
 
 ---
 
-## ðŸŽ¥ YTChatBot
+## 🎥 YTChatBot
 
 YouTube RAG chatbot supporting videos and playlists with semantic search and streaming responses.
 
@@ -95,7 +95,7 @@ YouTube RAG chatbot supporting videos and playlists with semantic search and str
 
 ---
 
-# ðŸ’» Tech Stack
+# 💻 Tech Stack
 
 ## Languages
 
@@ -141,7 +141,7 @@ Also experienced with **Pinecone**, **ChromaDB**, and **Vector Search**.
 
 ---
 
-# ðŸ“ˆ GitHub Analytics
+# 📈 GitHub Analytics
 
 <div align="center">
 
@@ -161,7 +161,7 @@ Also experienced with **Pinecone**, **ChromaDB**, and **Vector Search**.
 
 ---
 
-# ðŸŽ¯ Interests
+# 🎯 Interests
 
 - Agentic AI
 - Enterprise AI
@@ -174,7 +174,7 @@ Also experienced with **Pinecone**, **ChromaDB**, and **Vector Search**.
 
 ---
 
-# ðŸŒ± Currently Learning
+# 🌱 Currently Learning
 
 - NVIDIA AI Stack
 - Kubernetes
@@ -184,7 +184,7 @@ Also experienced with **Pinecone**, **ChromaDB**, and **Vector Search**.
 
 ---
 
-# ðŸ¤ Open Source
+# 🤝 Open Source
 
 I'm always interested in collaborating on projects involving:
 
@@ -197,18 +197,19 @@ I'm always interested in collaborating on projects involving:
 
 ---
 
-# ðŸ“« Connect
+# 📫 Connect
 
-- ðŸ“§ **Email:** adarshx68@gmail.com
-- ðŸ’¼ **LinkedIn:** Add your LinkedIn URL
-- ðŸŒ **Portfolio:** Coming Soon
+- 📧 **Email:** adarshx68@gmail.com
+- 💼 **LinkedIn:** Add your LinkedIn URL
+- 🌐 **Portfolio:** Coming Soon
 
 ---
 
 <div align="center">
 
-### Thanks for visiting! â­
+### Thanks for visiting! ⭐
 
 *"Building AI systems that solve real-world problems."*
 
 </div>
+
