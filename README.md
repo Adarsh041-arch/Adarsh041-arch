@@ -140,29 +140,32 @@ Also experienced with **Pinecone**, **ChromaDB**, and **Vector Search**.
 </p>
 
 ---
+<!-- ========================= GitHub Analytics ========================= -->
 
-# 📈 GitHub Analytics
+<h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
 
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=Adarsh041-arch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh041-arch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-  <br><br>
-
-  <img
-       src="https://streak-stats.demolab.com?user=Adarsh041-arch&theme=tokyonight&hide_border=true"/>
-
-  <br><br>
-
-  <img width="95%"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh041-arch&theme=tokyo-night&hide_border=true"/>
+<img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh041-arch&theme=tokyo-night&hide_border=true&area=true"
+/>
 
 </div>
----
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Adarsh041-arch&style=for-the-badge&color=blue" />
+
+<img src="https://img.shields.io/github/followers/Adarsh041-arch?label=Followers&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/stars/Adarsh041-arch?affiliations=OWNER&style=for-the-badge" />
+
+</div>
+
+<!-- ================================================================ -->
 
 # 🎯 Interests
 
