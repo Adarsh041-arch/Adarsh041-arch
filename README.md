@@ -8,12 +8,12 @@ Building production-ready AI systems using LangGraph, FastAPI, React, and modern
 
 <p>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="[https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge](https://img.shields.io/github/followers/Adarsh041-arch?label=Followers&style=for-the-badge)">
+<a href="https://github.com/Adarsh041-arch">
+<img src="https://img.shields.io/github/followers/Adarsh041-arch?label=Followers&style=for-the-badge">
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge">
+<a href="https://github.com/Adarsh041-arch">
+<img src="https://komarev.com/ghpvc/?username=Adarsh041-arch&style=for-the-badge">
 </a>
 
 </p>
@@ -208,17 +208,9 @@ A production-ready AI platform supporting document search, SQL execution, web se
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adarsh041-arch&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh041-arch&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -226,7 +218,15 @@ A production-ready AI platform supporting document search, SQL execution, web se
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh041-arch&theme=tokyonight"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh041-arch&theme=github-compact"/>
 
 </p>
 
