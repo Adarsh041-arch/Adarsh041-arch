@@ -9,7 +9,7 @@ Building production-ready AI systems using LangGraph, FastAPI, React, and modern
 <p>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge">
+<img src="[https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge](https://img.shields.io/github/followers/Adarsh041-arch?label=Followers&style=for-the-badge)">
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
