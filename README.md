@@ -1,9 +1,13 @@
-<h1 align="center">Hi, I'm Adarsh Singh 👋</h1>
-<h3 align="center">AI/ML Engineer | Building Agentic RAG Systems & Full-Stack AI Products</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Adarsh%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Agentic%20RAG%20%26%20Full-Stack%20AI%20Systems&descAlignY=58&descSize=18" alt="header"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Agentic+RAG+Systems;LangGraph+%7C+FastAPI+%7C+React+%7C+MCP;Turning+LLMs+into+Reliable+Products;Currently%3A+TCET+Intelligence+%2B+YTChatBot&font=Fira+Code&center=true&width=600&height=50&color=00C6FF&vCenter=true&size=22&pause=1200" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:adarshx68@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://komarev.com/ghpvc/?username=Adarsh041-arch&style=for-the-badge&color=00C6FF&label=PROFILE+VIEWS" alt="profile views"/>
 </p>
 
 ---
@@ -22,7 +26,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🧩 [TCET Intelligence — Advanced RAG & Agentic Chatbot](https://github.com/YOUR-USERNAME/tcet-intelligence)
+#### 🧩 [TCET Intelligence — Advanced RAG & Agentic Chatbot](https://github.com/Adarsh041-arch/tcet-intelligence)
 Production-style enterprise chatbot platform with **FastAPI + React + Ollama**, featuring adaptive retrieval, an MCP filesystem agent, SQL querying in natural language, and sandboxed document generation.
 - Fully local RAG pipeline (parse → chunk → embed → retrieve) over PDF/DOCX/TXT using **ChromaDB** — **~45ms** warm vector search, **~838ms** end-to-end response latency
 - Keyword fast-path document classifier (**<1ms**) with LLM fallback (**~614ms**) for ambiguous queries, plus adaptive Tavily web search routing
@@ -31,7 +35,7 @@ Production-style enterprise chatbot platform with **FastAPI + React + Ollama**, 
 
 `FastAPI` `React` `LangGraph` `Ollama` `ChromaDB` `MCP` `Tavily`
 
-#### 🎥 [YTChatBot — YouTube RAG Chatbot](https://github.com/YOUR-USERNAME/ytchatbot)
+#### 🎥 [YTChatBot — YouTube RAG Chatbot](https://github.com/Adarsh041-arch/ytchatbot)
 End-to-end RAG chatbot that answers questions over YouTube videos & playlists, with secure auth and real-time streaming.
 - Layered transcript extraction (`youtube-transcript-api` → `yt-dlp` → Invidious) for resilient ingestion, even under IP-blocked cloud environments
 - Embeddings via **SentenceTransformers (all-MiniLM-L6-v2)** indexed into **Pinecone** with per-video namespace isolation — **~350ms** end-to-end retrieval
@@ -52,54 +56,57 @@ Agentic system for auditing invoices, purchase orders, contracts, and certificat
 
 ### 🛠️ Tech Stack
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,postgresql&theme=dark" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi,react,vite,tailwind&theme=dark" /> &nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb,docker,git,githubactions&theme=dark" />
+</p>
 
-**AI / ML**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**Backend & Agentic Infra**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-black?style=flat-square)
-
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Databases & Vector Stores**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6600?style=flat-square)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square)
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ChromaDB-FF6600?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh041-arch&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh041-arch&theme=tokyonight&hide_border=true" height="165"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh041-arch&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adarsh041-arch&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Adarsh041-arch/Adarsh041-arch/blob/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/Adarsh041-arch/Adarsh041-arch/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%"/>
+  </a>
+</p>
+
+<p align="center"><sub>⚡ Snake animation renders after you add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to this repo — see note below.</sub></p>
 
 ---
 
 ### 📫 Connect With Me
 
-- 📧 **Email:** adarshx68@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN](https://linkedin.com)
-- 📍 **Location:** Mumbai, India
+<p align="center">
+  <a href="mailto:adarshx68@gmail.com"><img src="https://img.shields.io/badge/Email-adarshx68%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
-<p align="center"><i>Open to AI/ML Engineer and AI Developer roles — always happy to talk about RAG systems, agentic architectures, and LLM tooling.</i></p>
+<p align="center"><i>📍 Mumbai, India &nbsp;•&nbsp; Open to AI/ML Engineer roles &nbsp;•&nbsp; Always up for a chat about RAG systems, agentic architectures, and LLM tooling</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=100&section=footer" alt="footer"/>
