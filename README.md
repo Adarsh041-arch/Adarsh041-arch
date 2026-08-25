@@ -199,9 +199,9 @@ I'm always interested in collaborating on projects involving:
 
 # 📫 Connect
 
-- 📧 **Email:** adarshx68@gmail.com
-- 💼 **LinkedIn:** Add your LinkedIn URL
-- 🌐 **Portfolio:** Coming Soon
+* 📧 **Email:** [adarshx68@gmail.com](mailto:adarshx68@gmail.com)
+* 💼 **LinkedIn:** [Adarsh Singh](https://www.linkedin.com/in/adarsh-singh-41b223321)
+* 🌐 **Portfolio:** [adarsh041-arch.github.io/my-portfolio](https://adarsh041-arch.github.io/my-portfolio/)
 
 ---
 
@@ -212,4 +212,3 @@ I'm always interested in collaborating on projects involving:
 *"Building AI systems that solve real-world problems."*
 
 </div>
-
